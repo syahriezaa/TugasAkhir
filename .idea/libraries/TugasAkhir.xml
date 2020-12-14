@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TugasAkhir">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TugasAkhir.jar!/" />
+      <root url="jar://E:/xampp/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/mysql-connector-java-5.1.49-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
